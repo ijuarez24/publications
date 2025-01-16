@@ -14,7 +14,7 @@ The research presented here was conducted in collaboration with the **Institute 
 - Data analysis.  
 
 ## 📂 **Repository Structure**  
-- `Publications/`: Contains PDFs and links to journal articles.  
+- `Publications/`: Contains PDFs files of articles.  
 - `Conferences/`: Includes abstracts from conference presentations.  
 
 

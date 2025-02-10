@@ -25,5 +25,4 @@ The research presented here was conducted in collaboration with the **Institute 
 ## 🌐 **Connect With Me**  
 If you are interested in collaborating or discussing the research, feel free to reach out:  
 - [LinkedIn](https://www.linkedin.com/in/inmaculadajuarez)  
-- [GitHub](https://github.com/ijuarez24)  
 - [Email](mailto:inma.juarez24@gmail.com)  
